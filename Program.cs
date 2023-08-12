@@ -56,7 +56,10 @@ namespace AtividadeLucasFalcao
                     Console.WriteLine("Valor de compra: " + pj.valor.ToString("C"));
                     Console.WriteLine("Imposto: " + pj.valor_imposto.ToString("C"));
                     Console.WriteLine("Total a pagar: " + pj.total.ToString("C"));
-                }
+                } else
+                    {
+                        Console.WriteLine("Tipo inválido. Insira somente 'f' para Física ou 'j' para Jurídica");
+                    }
 
         }
     }

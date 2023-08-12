@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Documents\\Cursos\\senai\\projetoCsharp\\CadastroDeClientes\\AtividadeLucasFalcao\\AtividadeLucasFalcao.csproj": {}
+    "C:\\Users\\User\\Documents\\Cursos\\senai\\projetoCsharp\\CadastroDeClientes\\atividade-senai-poo\\AtividadeLucasFalcao.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Documents\\Cursos\\senai\\projetoCsharp\\CadastroDeClientes\\AtividadeLucasFalcao\\AtividadeLucasFalcao.csproj": {
+    "C:\\Users\\User\\Documents\\Cursos\\senai\\projetoCsharp\\CadastroDeClientes\\atividade-senai-poo\\AtividadeLucasFalcao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Documents\\Cursos\\senai\\projetoCsharp\\CadastroDeClientes\\AtividadeLucasFalcao\\AtividadeLucasFalcao.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Documents\\Cursos\\senai\\projetoCsharp\\CadastroDeClientes\\atividade-senai-poo\\AtividadeLucasFalcao.csproj",
         "projectName": "AtividadeLucasFalcao",
-        "projectPath": "C:\\Users\\User\\Documents\\Cursos\\senai\\projetoCsharp\\CadastroDeClientes\\AtividadeLucasFalcao\\AtividadeLucasFalcao.csproj",
+        "projectPath": "C:\\Users\\User\\Documents\\Cursos\\senai\\projetoCsharp\\CadastroDeClientes\\atividade-senai-poo\\AtividadeLucasFalcao.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Documents\\Cursos\\senai\\projetoCsharp\\CadastroDeClientes\\AtividadeLucasFalcao\\obj\\",
+        "outputPath": "C:\\Users\\User\\Documents\\Cursos\\senai\\projetoCsharp\\CadastroDeClientes\\atividade-senai-poo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
